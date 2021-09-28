@@ -28,6 +28,7 @@
 * python3-pymysql
 * python3-debian
 * sqlite3
+* php-xml
 
 ### Installation
 
