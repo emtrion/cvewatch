@@ -25,7 +25,7 @@
 * Python
 * Apache
 * MySQL/MariaDB
-* PyMySQL
+* python3-pymysql
 
 ### Installation
 
